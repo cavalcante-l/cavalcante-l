@@ -44,4 +44,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cavalcante-l/cavalcante-l/output/snake.svg" alt="Snake animation" />
+
